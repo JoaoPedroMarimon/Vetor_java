@@ -36,7 +36,7 @@ public class Principal {
                 JOptionPane.showMessageDialog(null,
                         "o valor procurado foi encontrado na posição " + i);
                 flag = 1;
-                break; // 🔥 interrompe o while
+                break; // 
             }
             i++;
         }
